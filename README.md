@@ -14,4 +14,3 @@ You can click the Preview link to take a look at your changes.
 - C# (.NET stack)
 - Ruby (and on rails)
 - Javascript (and a few framework flavors)
-- 
